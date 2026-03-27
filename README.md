@@ -29,13 +29,18 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 <img width="480" height="324" alt="image" src="https://github.com/user-attachments/assets/b2f8f171-ceff-4481-add2-bc4ef1c42506" />
 
 ### Model Graph
-<img width="718" height="933" alt="image" src="https://github.com/user-attachments/assets/09c11b43-dc9c-4bf9-a04a-0728d0b0fea3" />
+
+![521954976-a1b41bf0-2cb5-479c-9d1d-abe76499f8f3](https://github.com/user-attachments/assets/8b238288-72e2-49f2-83a2-2bb9c3cb4841)
+
 
 ### Tabulation
 
-<img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/05600b28-ba54-4cd4-9ff4-f088865e85ae" />
+![521954835-e42efd01-e507-451a-a76d-1fdc098570de](https://github.com/user-attachments/assets/d4e27965-dc1c-453c-b3df-3e73dfe60b64)
+
+
 
 ### Result
 
+![521954733-dbe6d8f1-2a0d-47dd-9fa1-616a15e003af](https://github.com/user-attachments/assets/7f55e6f7-d3d1-4799-a00a-eb5231114766)
 
 
